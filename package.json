@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "using a server with roll.js",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "test": "node server.js --port=5555"
   },
